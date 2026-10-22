@@ -1,0 +1,9 @@
+.venv/
+.venv_old/
+__pycache__/
+*.pyc
+data/
+outputs/
+.env
+.streamlit/secrets.toml
+~$*
