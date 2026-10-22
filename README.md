@@ -5,6 +5,10 @@ invoice lines, from profiling and documented cleaning to SQL analysis and an
 interactive dashboard. It examines how cancellations and special charges change
 the picture given by positive sales alone.
 
+## Dashboard preview
+
+![Invoice Insights dashboard](docs/dashboard.png)
+
 ## Features
 
 - Profile missing values, exact duplicates and unusual amounts.
